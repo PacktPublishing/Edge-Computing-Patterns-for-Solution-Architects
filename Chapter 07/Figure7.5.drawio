@@ -1,0 +1,159 @@
+<mxfile host="Electron" modified="2023-10-22T19:21:04.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="CKnlns8p8c4vZzHW7MQQ" version="22.0.3" type="device">
+  <diagram name="Page-1" id="avN8juVX5ronYETcS8Cm">
+    <mxGraphModel dx="1024" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-1" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Provisioning with FIDO Device Onboard&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="930" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-2" target="r9bCCB6k2ZE7LvcqOjBu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Build and ship FDO-enabled devices&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-4" target="r9bCCB6k2ZE7LvcqOjBu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Register ownership in target platform&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-6" target="r9bCCB6k2ZE7LvcqOjBu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Register device in FDO service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-8" target="r9bCCB6k2ZE7LvcqOjBu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Device uses&lt;br&gt;FDO service to find target platform&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-10" target="r9bCCB6k2ZE7LvcqOjBu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Device auth&#39;d and provisioned&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="660" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Post-install instructions sent and run on device&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="820" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="243" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="360" y="243" width="600" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Device Manufacturer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Device Recipient / Owner&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="530" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="396" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="r9bCCB6k2ZE7LvcqOjBu-25">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Target platform w/FDO support&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r9bCCB6k2ZE7LvcqOjBu-25">
+          <mxGeometry x="15" y="42" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;entryX=0.462;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.462;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r9bCCB6k2ZE7LvcqOjBu-25" target="r9bCCB6k2ZE7LvcqOjBu-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="240" as="sourcePoint" />
+            <mxPoint x="66" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FDO Service&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-27" target="r9bCCB6k2ZE7LvcqOjBu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supply Chain&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9bCCB6k2ZE7LvcqOjBu-31">
+          <mxGeometry x="-0.468" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-27" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.factory;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="102" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="56" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Device manufactured with single SKU for multiple target platforms&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="96" y="270" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=4;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.box;" vertex="1" parent="1">
+          <mxGeometry x="422" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ownership voucher loaded at procurement&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="315" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526" y="160" as="sourcePoint" />
+            <mxPoint x="696" y="160.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Device registration&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;startArrow=classic;startFill=1;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-39" target="r9bCCB6k2ZE7LvcqOjBu-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-39" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontColor=#4277BB;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="730" y="360.005" width="78" height="74.22" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="785" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Device onboarding&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="822" y="315" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.862;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="r9bCCB6k2ZE7LvcqOjBu-39" target="r9bCCB6k2ZE7LvcqOjBu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Late binding provisioning&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9bCCB6k2ZE7LvcqOjBu-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Software&lt;br&gt;installation&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

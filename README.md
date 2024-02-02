@@ -1,4 +1,4 @@
-# Edge-Computing-Patterns-for-Solution-Architects
+# Edge Computing Patterns for Solution Architects
 
 <a href ="https://www.packtpub.com/product/edge-computing-patterns-for-solution-architects/9781805124061"> <img src="https://content.packt.com/B21141/cover_image_small.jpg" alt="Edge Computing Patterns for Solution Architects" itemprop="url" height="256px" align="right">
 
